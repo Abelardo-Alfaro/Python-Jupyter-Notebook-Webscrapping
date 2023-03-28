@@ -4,6 +4,18 @@
 <h2>Description</h2>
 Part of the IBM Data Analyst Professional Certificate program. This is a Lab where we go into depth of many of the techniques used in the feild of data science and data analysis to webscrap the internet for information.
 <br/><br/>From parsed Data from the web to DataFrames using useful libraries like Panda, Requests, BeautifulSoup, json and many more.  
+<br/><br/>The table of content goes as follows:<br/><br/>
+- Beautiful Soup Object<br/>
+ Tag<br/>
+ Children, Parents, and Siblings<br/>
+ HTML Attributes<br/>
+ Navigable String<br/><br/>
+- Filter<br/>
+ find All<br/>
+ find<br/>
+ HTML Attributes<br/>
+ Navigable String<br/><br/>
+- Downloading And Scraping The Contents Of A Web<br/>
 <br />
 
 
